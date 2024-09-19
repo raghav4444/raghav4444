@@ -1,5 +1,4 @@
 <div align="center">
-    <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+[Raghvendra Singh];This+is..;..my+Github..;" alt="Typing SVG"/>
-    </h1>
+    <h2>🚀 About Me</h2>
+    <p>I'm a Programmer specializing in Programming languages like c,c++,html,javasScript. I enjoy to solve problems based on real life.</p>
 </div>
