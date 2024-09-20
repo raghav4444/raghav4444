@@ -7,7 +7,7 @@
 
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>Hi there! I'm Raghvendra Singh, a passionate software developer skilled in [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [C++](https://en.wikipedia.org/wiki/C%2B%2B), and more. I thrive on solving complex problems and diving into new technologies.</p>
+    Hi there! I'm Raghvendra Singh, a passionate software developer skilled in [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [C++](https://en.wikipedia.org/wiki/C%2B%2B), and more. I thrive on solving complex problems and diving into new technologies.
 </div>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=raghav4444)
