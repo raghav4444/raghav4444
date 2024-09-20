@@ -6,9 +6,12 @@ Hi there! I'm Raghvendra Singh, a passionate software developer skilled in [Java
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=raghav4444)
 
-> "The best way to predict the future is to invent it." — Alan Kay
+> "The best investment you can make, is an investment in yourself...
+> The more you learn,
+> The more you earn
+> - Warren Buffett
 
-![Animation Quote](https://blossom.co/wp-content/uploads/2015/04/AlanKayQuote.jpg)
+![Animation Quote](https://marketmegood.com/blog/wp-content/uploads/2020/12/Warren-Buffett-Quotes-on-Leadership-and-Success-4.jpg)
 
 ## Projects
 
