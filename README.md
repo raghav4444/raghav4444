@@ -31,10 +31,12 @@ Hi there! I'm Raghvendra Singh, a passionate software developer skilled in [Java
 
 Here’s an animated progress bar example:
 <div>
-    <a href="#"><img alt="Raghvendra Singh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=raghav4444&custom_title=Raghvendra's%27s%20Contribution%20Graph&bg_color=0D1117&color=ff3c74&line=FFFFFF&point=ff3c74&hide_border=true" /></a>
+    <a href="#"><img alt="Raghvendra Singh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=raghav4444&custom_title=Raghvendra%27s%20Contribution%20Graph&bg_color=0D1117&color=ff3c74&line=FFFFFF&point=ff3c74&hide_border=true" /></a>
 </div>
 
-
+<div align="center">
+    <img src="https://raw.githubusercontent.com/[raghav4444]/[raghav4444]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
 
 
 ## Let's Connect
