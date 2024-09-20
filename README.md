@@ -7,8 +7,8 @@
 
 <div align="center">
     <h2>🚀 About Me</h2>
-    Hi there! I'm Raghvendra Singh, a passionate software developer skilled in [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [C++](https://en.wikipedia.org/wiki/C%2B%2B), and more. I thrive on solving complex problems and diving into new technologies.
 </div>
+    Hi there! I'm Raghvendra Singh, a passionate software developer skilled in [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [C++](https://en.wikipedia.org/wiki/C%2B%2B), and more. I thrive on solving complex problems and diving into new technologies.
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=raghav4444)
 
@@ -37,7 +37,7 @@
 <p> To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my Linktree. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
 <div align="center">
   <a href="https://www.linkedin.com/in/raghvendra-singh-a88331291">
-    <img src="https://img.shields.io/badge/ZanePearton-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Raghvendra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree"/>
@@ -45,7 +45,6 @@
 <a href="https://github.com/raghav4444/raghav4444" target="_blank">
     <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=ZanePearton&style=for-the-badge" alt="Profile views" />
 </div>
 
 <div align="center">
