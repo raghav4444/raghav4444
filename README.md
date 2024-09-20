@@ -31,7 +31,7 @@ Hi there! I'm Raghvendra Singh, a passionate software developer skilled in [Java
 
 Here’s an animated progress bar example:
 <div>
-    <a href="#"><img alt="Raghvendra Singh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=raghav4444&custom_title=Prateek%27s%20Contribution%20Graph&bg_color=0D1117&color=ff3c74&line=FFFFFF&point=ff3c74&hide_border=true" /></a>
+    <a href="#"><img alt="Raghvendra Singh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=raghav4444&custom_title=Raghvendra's%27s%20Contribution%20Graph&bg_color=0D1117&color=ff3c74&line=FFFFFF&point=ff3c74&hide_border=true" /></a>
 </div>
 
 
@@ -40,6 +40,5 @@ Here’s an animated progress bar example:
 ## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/raghvendra-singh/)
-- [Twitter](https://twitter.com/raghvendra-singh)
 
 Feel free to reach out if you want to collaborate or just chat about tech!
