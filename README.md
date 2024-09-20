@@ -32,23 +32,6 @@
 ![Git Skills](https://img.shields.io/badge/Git-Expert-red)
 
 ## Contributions and Stats
-
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raghav4444&theme=github_dark" alt="Raghvendra's GitHub Stats"/>
-</div>
-
-## Animated Progress Bar
-
-Here’s an animated progress bar example:
-<div>
-    <a href="#"><img alt="Raghvendra Singh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=raghav4444&custom_title=Raghvendra%27s%20Contribution%20Graph&bg_color=0D1117&color=ff3c74&line=FFFFFF&point=ff3c74&hide_border=true" /></a>
-</div>
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/[raghav4444]/[raghav4444]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
-</div>
-
-
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
 <p> To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my Linktree. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
@@ -150,9 +133,14 @@ Here’s an animated progress bar example:
  </table>
 </div>
 
+## Animated Progress Bar
 
-## Let's Connect
+Here’s an animated progress bar example:
+<div>
+    <a href="#"><img alt="Raghvendra Singh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=raghav4444&custom_title=Raghvendra%27s%20Contribution%20Graph&bg_color=0D1117&color=ff3c74&line=FFFFFF&point=ff3c74&hide_border=true" /></a>
+</div>
 
-- [LinkedIn](https://www.linkedin.com/in/raghvendra-singh/)
+<div align="center">
+    <img src="https://raw.githubusercontent.com/[raghav4444]/[raghav4444]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
 
-Feel free to reach out if you want to collaborate or just chat about tech!
