@@ -33,8 +33,9 @@
 
 ## Contributions and Stats
 
-![GitHub Readme Stats](https://github-readme-streak-stats.herokuapp.com?user=raghav4444&theme=dark-smoky&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=FF3C74&currStreakNum=FFFFFF&dates=FF3C74&sideLabels=FFFFFF&fire=FF3C74&sideNums=FFFFFF&currStreakLabel=62C4FF&border=FF3C74)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghav4444&layout=compact&theme=radical)
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raghav4444&theme=github_dark" alt="Raghvendra's GitHub Stats"/>
+</div>
 
 ## Animated Progress Bar
 
