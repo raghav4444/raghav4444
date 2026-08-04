@@ -1,174 +1,163 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Raghvendra%20Singh&fontSize=60&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20•%20MERN%20•%20AI&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:09090B,20:111827,40:1E1B4B,60:4C1D95,80:7C3AED,100:A78BFA&text=⚡%20RAGHVENDRA%20SINGH%20⚡&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Code.%20Chaos.%20Creation.&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Developer;Hackathon+Winner;AI+Powered+Web+Apps;Open+Source+Enthusiast"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2600&pause=700&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=1100&height=120&lines=🚀+FULL+STACK+DEVELOPER;⚙️+MERN+%7C+AI+%7C+SYSTEM+DESIGN+IN+PROGRESS;🏆+AKTU+AI+TECH+CONFLUENCE+WINNER;🧠+I+DON'T+JUST+WRITE+CODE+I+SHIP+EXPERIENCES" />
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=raghav4444&style=for-the-badge&color=blueviolet"/>
-<img src="https://img.shields.io/github/followers/raghav4444?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/raghav4444?style=for-the-badge"/>
-</p>
+<br/>
 
-# 👋 Hi, I'm Raghvendra Singh
-
-### Full Stack Developer | MERN Stack | AI Enthusiast | DSA
-
-Building scalable web applications with modern technologies.
+<img src="https://img.shields.io/badge/STATUS-BUILDING_THE_FUTURE-0f172a?style=for-the-badge&logo=github&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/FOCUS-SCALABLE_PRODUCTS-0f172a?style=for-the-badge&logo=vercel&logoColor=A78BFA"/>
+<img src="https://komarev.com/ghpvc/?username=raghav4444&style=for-the-badge&color=7c3aed"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+## `whoami.exe`
 
-- 💻 Full Stack Developer
-- 🌱 Currently learning System Design, Docker & AWS
-- 🏆 3rd Place - AKTU AI Tech Confluence (Studify)
-- 💡 Passionate about AI, SaaS and scalable products
-- ⚡ Love solving DSA problems
-
----
-
-# 💼 Experience
-
-## Full Stack Developer Intern — Hexsoftwares Pvt. Ltd.
-
-- Built 3+ full stack applications
-- Developed 10+ REST APIs
-- Implemented JWT Authentication
-- Fixed 15+ frontend/backend issues
-- Tech: React, Node.js, Express, MongoDB
+```yaml
+name: Raghvendra Singh
+class: Full Stack Developer
+specialization: MERN + AI-integrated products
+philosophy: "Clean UI. Powerful backend. Real impact."
+current_quest:
+  - System Design
+  - Docker
+  - AWS
+side_effects:
+  - Over-optimizing APIs
+  - Turning coffee into features
+  - Breaking limits at hackathons
+```
 
 ---
 
-# 🌟 Featured Projects
+## ⚡ Dev Identity Matrix
 
-## 🎓 Studex
+<div align="center">
 
-All-in-One Student Community Platform
+| Mode | Power |
+|------|-------|
+| 🧠 Problem Solving | ██████████ 100% |
+| 🎨 Frontend Craft | █████████░ 92% |
+| 🛠 Backend Engineering | █████████░ 90% |
+| 🤖 AI Product Thinking | ████████░░ 83% |
+| 🚀 Shipping Speed | ██████████ 99% |
 
-**Tech**
-
-React • Node.js • MongoDB • Express • JWT • TailwindCSS
-
-Features
-
-- Student Feed
-- Notes Sharing
-- Mentorship
-- Events
-- Jobs
-- Communities
-
-🔗 https://github.com/raghav4444
+</div>
 
 ---
 
-## 🧠 Studify
+## 🧪 Mission Logs (Projects)
 
-AI Powered Study Planner
+<div align="center">
+  <img src="https://img.shields.io/badge/PROJECT_01-STUDEX-7c3aed?style=for-the-badge"/>
+</div>
 
-- Personalized Study Plans
-- Smart Scheduling
-- Productivity Insights
+### 🎓 Studex — All-in-One Student Community Platform
+> A digital campus ecosystem for students to learn, connect, and grow.
 
-🏆 3rd Place - AKTU AI Tech Confluence
+**Core Systems**
+- Community Feed  
+- Notes Sharing  
+- Mentorship Network  
+- Events + Jobs + Student Circles
 
----
-
-## 🍔 Omnifood
-
-Responsive Meal Planning Website
-
-HTML • CSS • JavaScript
-
----
-
-# 🛠 Tech Stack
-
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts"/>
-</p>
-
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
-</p>
-
-## Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-## Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase"/>
-</p>
-
-## Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker"/>
-</p>
+**Tech Reactor**  
+`React` `Node.js` `Express` `MongoDB` `JWT` `TailwindCSS`
 
 ---
 
-# 🏆 Achievements
+<div align="center">
+  <img src="https://img.shields.io/badge/PROJECT_02-STUDIFY_AI-A78BFA?style=for-the-badge"/>
+</div>
 
-- 🥉 AKTU AI Tech Confluence 2025
-- 🏅 TCS CodeVita Qualifier
-- 🚀 20+ Projects
-- 💼 Full Stack Internship
+### 🧠 Studify — AI Powered Study Planner
+> Personalized AI planning engine for productivity-focused students.
 
----
+- Adaptive Study Plans  
+- Smart Scheduling  
+- Performance Insight Layer  
 
-# 📊 GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=raghav4444&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav4444&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=raghav4444&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=raghav4444&theme=algolia&row=1&column=7"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raghav4444&theme=tokyo-night&hide_border=true"/>
-</p>
+🏆 **3rd Place — AKTU AI Tech Confluence 2025**
 
 ---
 
-<img src="https://raw.githubusercontent.com/raghav4444/raghav4444/output/github-contribution-grid-snake.svg"/>
+<div align="center">
+  <img src="https://img.shields.io/badge/PROJECT_03-OMNIFOOD-6D28D9?style=for-the-badge"/>
+</div>
+
+### 🍔 Omnifood — Responsive Meal Planning Experience
+Clean, responsive frontend engineered for UX consistency.
+
+`HTML` `CSS` `JavaScript`
 
 ---
 
-# 🌐 Connect With Me
+## 🧰 Arsenal of Tech
 
-<p align="center">
-<a href="https://github.com/raghav4444"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://www.linkedin.com/in/raghvendra-singh4444"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:raghavsingh99199@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/></a>
-<a href="https://portfolio-2-0-seven-virid.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/></a>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,react,nextjs,nodejs,express,mongodb,mysql,supabase,docker,aws,git,github,vscode,postman&theme=dark" />
+
+</div>
+
+---
+
+## 🏆 Trophies Unlocked
+
+- 🥉 AKTU AI Tech Confluence 2025  
+- 🏅 TCS CodeVita Qualifier  
+- 🚀 Built 20+ Projects  
+- 💼 Full Stack Developer Internship Completed  
+
+---
+
+## 📡 Live Developer Telemetry
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=raghav4444&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav4444&layout=compact&theme=midnight-purple&hide_border=true"/>
+
+<img width="830" src="https://streak-stats.demolab.com?user=raghav4444&theme=midnight-purple&hide_border=true"/>
+
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=raghav4444&theme=react-dark&bg_color=0D1117&hide_border=true&line=7c3aed&point=A78BFA&area=true"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake (Chaos Mode)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/raghav4444/raghav4444/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</div>
+
+---
+
+## 🌐 Neural Links
+
+<div align="center">
+
+<a href="https://github.com/raghav4444"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=A78BFA"/></a>
+<a href="https://www.linkedin.com/in/raghvendra-singh4444"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/></a>
+<a href="mailto:raghavsingh99199@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=F87171"/></a>
+<a href="https://portfolio-2-0-seven-virid.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=ffffff"/></a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## ⚔️ Final Line
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+
+### `> eat(); sleep(); code(); innovate(); repeat();`
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:09090B,20:111827,40:1E1B4B,60:4C1D95,80:7C3AED,100:A78BFA"/>
 
 </div>
-
