@@ -42,6 +42,19 @@ focus: [Full-stack products, AI integration, DSA, system design]
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=raghav4444&bg_color=020805&color=C5D8CE&line=34D399&point=4ADE80&area=true&hide_border=true" alt="Contribution activity" />
 </div>
 
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=raghav4444&show_icons=true&hide_border=true&bg_color=020805&title_color=34D399&text_color=C5D8CE&icon_color=34D399&rank_icon=github" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav4444&layout=compact&hide_border=true&bg_color=020805&title_color=34D399&text_color=C5D8CE" alt="Top languages" />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=raghav4444&bg_color=020805&color=C5D8CE&line=34D399&point=4ADE80&area=true&hide_border=true" alt="Contribution activity" />
+
+### `// NEON_PREDATOR_SNAKE`
+
+<img width="100%" src="https://raw.githubusercontent.com/raghav4444/raghav4444/output/neon-snake.gif" alt="Glowing neon contribution snake" />
+
+</div>
+
 ### `05 // CONNECT`
 
 <div align="center">
