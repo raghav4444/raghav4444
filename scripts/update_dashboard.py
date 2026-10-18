@@ -113,21 +113,34 @@ def make_svg(profile, repos, langs, events):
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(svg, encoding="utf-8")
 
+
 def main():
-    profile = get_json(f"{API}/users/{USER}")
-    repos = get_json(f"{API}/users/{USER}/repos?per_page=100&sort=updated")
-    events = get_json(f"{API}/users/{USER}/events/public?per_page=10")
+    profile = get_json(f"{API}/{USER}")
+    repos = get_json(
+        f"{API}/users/{USER}/repos?per_page=100&sort=updated"
+    )
+    events = get_json(
+        f"{API}/users/{USER}/events/public?per_page=10"
+    )
+
     languages = {}
+
     for repo in repos:
         if repo.get("fork"):
             continue
+
         try:
-            for lang, size in get_json(repo["languages_url"]).items():
-                languages[lang] = languages.get(lang, 0) + size
-    except (urllib.error.URLError, TimeoutError):
-        pass
+            repo_languages = get_json(repo["languages_url"])
+        except (urllib.error.URLError, TimeoutError) as exc:
+            print(f"Could not fetch languages for {repo['name']}: {exc}")
+            continue
+
+        for lang, size in repo_languages.items():
+            languages[lang] = languages.get(lang, 0) + size
+
     make_svg(profile, repos, languages, events)
     print(f"Updated {OUT} for {USER}: {len(repos)} repositories.")
+
 
 if __name__ == "__main__":
     main()
