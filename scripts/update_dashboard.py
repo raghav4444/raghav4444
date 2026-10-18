@@ -115,7 +115,7 @@ def make_svg(profile, repos, langs, events):
 
 
 def main():
-    profile = get_json(f"{API}/{USER}")
+    profile = get_json(f"{API}/users/{USER}")
     repos = get_json(
         f"{API}/users/{USER}/repos?per_page=100&sort=updated"
     )
