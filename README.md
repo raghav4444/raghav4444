@@ -74,19 +74,25 @@ focus: [Full-stack products, AI integration, DSA, system design]
 
 
 
+
 <h3 align="center">03 // DEVELOPER_ANALYTICS</h3>
 
 <div align="center">
 
-<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav4444&layout=compact&langs_count=6&hide_border=true&bg_color=020805&title_color=34D399&text_color=C5D8CE" alt="Compact programming language statistics" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav4444&layout=donut&hide_border=true&bg_color=020805&title_color=34D399&text_color=C5D8CE" alt="Programming language distribution" />
 
-<p>
+<br/>
+
 <a href="https://github.com/raghav4444?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-34D399?style=for-the-badge&labelColor=020805" alt="Explore repositories" />
+  <img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-34D399?style=for-the-badge&labelColor=020805&logo=github" alt="Explore projects" />
 </a>
-</p>
+
+<a href="https://github.com/raghav4444?tab=repositories">
+  <img src="https://img.shields.io/badge/PROJECTS-OPEN-34D399?style=for-the-badge&labelColor=020805&logo=git" alt="Open projects" />
+</a>
 
 </div>
+
 
 
 
