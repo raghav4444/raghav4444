@@ -118,14 +118,14 @@ focus: [Full-stack products, AI integration, DSA, system design]
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=20&duration=55&pause=1800&color=D4AF37&center=true&vCenter=true&width=850&height=100&lines=%22Great+things+are+done+by+a+series+of+small+things+brought+together.%22;%22It+always+seems+impossible+until+it%27s+done.%22;%22First,+solve+the+problem.+Then,+write+the+code.%22&repeat=true"
+  src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=20&duration=150&pause=3000&color=D4AF37&center=true&vCenter=true&width=850&height=100&lines=%22Great+things+are+done+by+a+series+of+small+things+brought+together.%22;%22It+always+seems+impossible+until+it%27s+done.%22;%22First,+solve+the+problem.+Then,+write+the+code.%22&repeat=true"
   alt="Looping developer mindset quotes"
 />
 
 <br/>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=400&size=13&duration=65&pause=1500&color=C5D8CE&center=true&vCenter=true&width=650&height=35&lines=BUILD+WITH+PURPOSE.;LEARN+WITHOUT+LIMITS.;PROGRESS+OVER+PERFECTION.&repeat=true"
+  src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=400&size=13&duration=150&pause=3000&color=C5D8CE&center=true&vCenter=true&width=650&height=35&lines=BUILD+WITH+PURPOSE.;LEARN+WITHOUT+LIMITS.;PROGRESS+OVER+PERFECTION.&repeat=true"
   alt="Looping developer principles"
 />
 
