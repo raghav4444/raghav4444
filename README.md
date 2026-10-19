@@ -125,7 +125,7 @@ focus: [Full-stack products, AI integration, DSA, system design]
 <br/>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=400&size=13&duration=300&pause=3000&color=C5D8CE&center=true&vCenter=true&width=650&height=35&lines=BUILD+WITH+PURPOSE.;LEARN+WITHOUT+LIMITS.;PROGRESS+OVER+PERFECTION.&repeat=true"
+  src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=400&size=13&duration=300&pause=6000&color=C5D8CE&center=true&vCenter=true&width=650&height=35&lines=BUILD+WITH+PURPOSE.;LEARN+WITHOUT+LIMITS.;PROGRESS+OVER+PERFECTION.&repeat=true"
   alt="Developer principles"
 />
 
