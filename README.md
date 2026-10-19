@@ -62,7 +62,9 @@ focus: [Full-stack products, AI integration, DSA, system design]
 
 <div align="center">
 
+
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=raghav4444&bg_color=020805&color=C5D8CE&line=34D399&point=4ADE80&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+
 
 <a href="https://github.com/raghav4444">
   <img width="100%" src="https://raw.githubusercontent.com/raghav4444/raghav4444/output/neon-snake.gif" alt="Animated neon contribution snake" />
@@ -76,19 +78,16 @@ focus: [Full-stack products, AI integration, DSA, system design]
 
 <div align="center">
 
-<img width="85%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav4444&layout=donut&hide_border=true&bg_color=020805&title_color=34D399&text_color=C5D8CE" alt="Programming language distribution" />
+<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav4444&layout=compact&langs_count=6&hide_border=true&bg_color=020805&title_color=34D399&text_color=C5D8CE" alt="Compact programming language statistics" />
 
-<br/>
-
+<p>
 <a href="https://github.com/raghav4444?tab=repositories">
-  <img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-34D399?style=for-the-badge&labelColor=020805&logo=github" alt="Explore projects" />
+<img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-34D399?style=for-the-badge&labelColor=020805" alt="Explore repositories" />
 </a>
-
-<a href="https://github.com/raghav4444?tab=repositories">
-  <img src="https://img.shields.io/badge/PROJECTS-OPEN-34D399?style=for-the-badge&labelColor=020805&logo=git" alt="Open projects" />
-</a>
+</p>
 
 </div>
+
 
 
 ### `05 // CONNECT`
