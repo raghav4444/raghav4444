@@ -110,24 +110,24 @@ focus: [Full-stack products, AI integration, DSA, system design]
 
 ---
 
-<h3 align="center">06 // DAILY_MINDSET</h3>
+
+---
+
+<h3>06 // DAILY_MINDSET</h3>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" bgcolor="#FFFFFF" width="900">
-        <br/>
-        <img
-          src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=400&size=18&duration=65&pause=1800&color=222222&center=true&vCenter=true&width=780&height=90&lines=%22Great+things+are+done+by+a+series+of+small+things+brought+together.%22"
-          alt="Animated motivational quote"
-        />
-        <br/>
-        <strong><sub><font color="#9B873D">BUILD. LEARN. REPEAT.</font></sub></strong>
-        <br/><br/>
-      </td>
-    </tr>
-  </table>
-  <br/>
-  <sub>ENGINEERED WITH PATIENCE · BUILT WITH PURPOSE</sub>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=20&duration=55&pause=1800&color=D4AF37&center=true&vCenter=true&width=850&height=100&lines=%22Great+things+are+done+by+a+series+of+small+things+brought+together.%22;%22It+always+seems+impossible+until+it%27s+done.%22;%22First,+solve+the+problem.+Then,+write+the+code.%22&repeat=true"
+  alt="Looping developer mindset quotes"
+/>
+
+<br/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=400&size=13&duration=65&pause=1500&color=C5D8CE&center=true&vCenter=true&width=650&height=35&lines=BUILD+WITH+PURPOSE.;LEARN+WITHOUT+LIMITS.;PROGRESS+OVER+PERFECTION.&repeat=true"
+  alt="Looping developer principles"
+/>
+
 </div>
 
