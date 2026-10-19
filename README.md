@@ -63,7 +63,7 @@ focus: [Full-stack products, AI integration, DSA, system design]
 <div align="center">
 
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=raghav4444&bg_color=020805&color=C5D8CE&line=34D399&point=4ADE80&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+<!-- <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=raghav4444&bg_color=020805&color=C5D8CE&line=34D399&point=4ADE80&area=true&hide_border=true" alt="GitHub contribution activity graph" /> -->
 
 
 <a href="https://github.com/raghav4444">
