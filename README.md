@@ -37,12 +37,25 @@ focus: [Full-stack products, AI integration, DSA, system design]
 ### `04 // GITHUB_TELEMETRY`
 
 
+<h3 align="center">01 // GITHUB_OVERVIEW</h3>
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=raghav4444&show_icons=true&hide_border=true&bg_color=020805&title_color=34D399&text_color=C5D8CE&icon_color=34D399&rank_icon=github" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav4444&layout=compact&hide_border=true&bg_color=020805&title_color=34D399&text_color=C5D8CE" alt="Top languages" />
+<a href="https://github.com/raghav4444?tab=repositories">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=raghav4444&show_icons=true&hide_border=true&bg_color=020805&title_color=34D399&text_color=C5D8CE&icon_color=34D399&rank_icon=github" alt="GitHub overview" />
+</a>
+<a href="https://github.com/raghav4444?tab=repositories">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav4444&layout=compact&hide_border=true&bg_color=020805&title_color=34D399&text_color=C5D8CE" alt="Top programming languages" />
+</a>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=raghav4444&bg_color=020805&color=C5D8CE&line=34D399&point=4ADE80&area=true&hide_border=true" alt="Contribution activity" />
+<a href="https://github.com/raghav4444?tab=stars">
+  <img src="https://img.shields.io/badge/EXPLORE-STARS-34D399?style=for-the-badge&logo=github&logoColor=020805&labelColor=020805" alt="Explore stars" />
+</a>
+<a href="https://github.com/raghav4444?tab=repositories">
+  <img src="https://img.shields.io/badge/BROWSE-REPOSITORIES-34D399?style=for-the-badge&logo=github&logoColor=020805&labelColor=020805" alt="Browse repositories" />
+</a>
+
+</div>
 
 
 <h3 align="center">02 // CONTRIBUTION_INTELLIGENCE</h3>
@@ -59,11 +72,51 @@ focus: [Full-stack products, AI integration, DSA, system design]
 
 
 
-### `// NEON_PREDATOR_SNAKE`
+<h3 align="center">03 // DEVELOPER_ANALYTICS</h3>
 
-<img width="100%" src="https://raw.githubusercontent.com/raghav4444/raghav4444/output/neon-snake.gif" alt="Glowing neon contribution snake" />
+<div align="center">
+
+<img width="85%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav4444&layout=donut&hide_border=true&bg_color=020805&title_color=34D399&text_color=C5D8CE" alt="Programming language distribution" />
+
+<br/>
+
+<a href="https://github.com/raghav4444?tab=repositories">
+  <img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-34D399?style=for-the-badge&labelColor=020805&logo=github" alt="Explore projects" />
+</a>
+
+<a href="https://github.com/raghav4444?tab=repositories">
+  <img src="https://img.shields.io/badge/PROJECTS-OPEN-34D399?style=for-the-badge&labelColor=020805&logo=git" alt="Open projects" />
+</a>
 
 </div>
+
+
+<h3 align="center">04 // NEOTERMINAL_OS</h3>
+
+<div align="center">
+
+<img width="100%" src="./assets/dashboard.svg" alt="Animated NeoTerminal GitHub dashboard" />
+
+<br/>
+
+<a href="https://github.com/raghav4444">
+  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-34D399?style=for-the-badge&labelColor=020805&logo=github" alt="System online" />
+</a>
+
+<a href="https://github.com/raghav4444?tab=repositories">
+  <img src="https://img.shields.io/badge/ACCESS-REPOSITORIES-34D399?style=for-the-badge&labelColor=020805" alt="Access repositories" />
+</a>
+
+</div>
+
+
+
+
+ `// NEON_PREDATOR_SNAKE`
+
+<!-- <img width="100%" src="https://raw.githubusercontent.com/raghav4444/raghav4444/output/neon-snake.gif" alt="Glowing neon contribution snake" /> -->
+
+<!-- </div> -->
 
 ### `05 // CONNECT`
 
