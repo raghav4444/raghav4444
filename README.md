@@ -91,33 +91,6 @@ focus: [Full-stack products, AI integration, DSA, system design]
 </div>
 
 
-<h3 align="center">04 // NEOTERMINAL_OS</h3>
-
-<div align="center">
-
-<img width="100%" src="./assets/dashboard.svg" alt="Animated NeoTerminal GitHub dashboard" />
-
-<br/>
-
-<a href="https://github.com/raghav4444">
-  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-34D399?style=for-the-badge&labelColor=020805&logo=github" alt="System online" />
-</a>
-
-<a href="https://github.com/raghav4444?tab=repositories">
-  <img src="https://img.shields.io/badge/ACCESS-REPOSITORIES-34D399?style=for-the-badge&labelColor=020805" alt="Access repositories" />
-</a>
-
-</div>
-
-
-
-
- `// NEON_PREDATOR_SNAKE`
-
-<!-- <img width="100%" src="https://raw.githubusercontent.com/raghav4444/raghav4444/output/neon-snake.gif" alt="Glowing neon contribution snake" /> -->
-
-<!-- </div> -->
-
 ### `05 // CONNECT`
 
 <div align="center">
