@@ -260,7 +260,7 @@ CS Fundamentals	Data Structures & Algorithms, OOP, DBMS, Operating Systems, Comp
   <a href="mailto:raghavsingh99199@gmail.com">
     <img src="https://img.shields.io/badge/Email-020805?style=for-the-badge&logo=gmail&logoColor=34D399" alt="Email Raghvendra" />
   </a>
-  <a href="https://portfolio-2-0-seven-virid.vercel.app/">
+  <a href="https://latest-portfolio-lsxt.vercel.app//">
     <img src="https://img.shields.io/badge/Portfolio-020805?style=for-the-badge&logo=vercel&logoColor=34D399" alt="Personal portfolio" />
   </a>
 </div>
