@@ -1,16 +1,21 @@
-<!-- =========================================================
-     RAGHVENDRA SINGH — GITHUB PROFILE README
-     DESIGN: CINEMATIC BREAKDOWN + NEOTERMINAL
-     
-     IMPORTANT:
-     1. Generate the Breakdown template assets first.
-     2. Keep the generated SVGs in the ./assets/ directory.
-     3. Update project links to individual repositories when available.
-     4. GitHub README files support HTML and Markdown, but not arbitrary JavaScript.
-     ========================================================= -->
+<!--
+  RAGHVENDRA SINGH — GITHUB PROFILE README
+  Visual direction: NeoTerminal × Neon Predator × Cinematic Breakdown
+  Repository: https://github.com/raghav4444/raghav4444
 
-<!-- ==================== 00 // CINEMATIC HERO ==================== -->
-<!-- Uses the generated Breakdown artwork with automatic light/dark switching. -->
+  Required local assets:
+  assets/breakdown-hero-dark.svg
+  assets/breakdown-hero-light.svg
+  assets/dashboard.svg
+  assets/breakdown-script-dark.svg
+  assets/breakdown-script-light.svg
+  assets/breakdown-end-dark.svg
+  assets/breakdown-end-light.svg
+
+  The custom neon snake GIF is published by neon-snake.yml to the output branch.
+-->
+
+<!-- ============================== HERO ============================== -->
 
 <p align="center">
   <picture>
@@ -21,188 +26,171 @@
     <img
       src="./assets/breakdown-hero-light.svg"
       width="100%"
-      alt="Raghvendra Singh — Full Stack Developer building modern web products and AI-powered applications."
+      alt="Raghvendra Singh — Full Stack Developer building web products and AI-powered applications."
     />
   </picture>
 </p>
 
-<!-- ==================== 00.1 // GENERATED NEOTERMINAL DASHBOARD ==================== -->
-<!-- Updated by scripts/update_dashboard.py via .github/workflows/update-dashboard.yml.
-     Keep this file at assets/dashboard.svg; the workflow refreshes its contents. -->
+<!-- =========================== LIVE DASHBOARD =========================== -->
 
 <p align="center">
   <img
-    width="100%"
     src="./assets/dashboard.svg"
-    alt="Automatically updated NeoTerminal GitHub dashboard"
+    width="100%"
+    alt="NeoTerminal dashboard generated from GitHub profile data."
   />
 </p>
 
-<!-- ==================== 01 // TERMINAL INTRO ==================== -->
-<!-- Keeps your original animated NeoTerminal identity. -->
+<!-- ============================== INTRO ============================== -->
 
 <div align="center">
 
-  <h3>RAGHVENDRA SINGH</h3>
-  <p><b>Full Stack Developer · AI Integration · Problem Solver</b></p>
+  <h2>RAGHVENDRA SINGH</h2>
+  <h3>Full Stack Developer · AI Integrations · Problem Solver</h3>
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2600&pause=900&color=34D399&center=true&vCenter=true&repeat=true&width=700&height=35&lines=%24+whoami+%E2%86%92+Full+Stack+Developer;%24+mission+%E2%86%92+Turn+ideas+into+products;%24+focus+%E2%86%92+MERN+%7C+AI+%7C+System+Design"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2600&pause=900&color=34D399&center=true&vCenter=true&repeat=true&width=760&height=36&lines=%24+whoami+%E2%86%92+Full+Stack+Developer;%24+mission+%E2%86%92+Turn+ideas+into+useful+products;%24+focus+%E2%86%92+MERN+%7C+AI+%7C+DSA;%24+status+%E2%86%92+Always+building"
     alt="Animated terminal introduction"
   />
   <p>
-    <a href="https://github.com/raghav4444?tab=repositories">PROJECTS</a>
-    ·
-    <a href="#tech-stack">TECH STACK</a>
-    ·
-    <a href="#github-telemetry">GITHUB TELEMETRY</a>
-    ·
-    <a href="https://www.linkedin.com/in/raghvendra-singh4444">LINKEDIN</a>
-    ·
-    <a href="https://portfolio-2-0-seven-virid.vercel.app/">PORTFOLIO</a>
+    <a href="https://portfolio-2-0-seven-virid.vercel.app/">
+      <img src="https://img.shields.io/badge/PORTFOLIO-34D399?style=for-the-badge&labelColor=020805&logo=vercel&logoColor=34D399" alt="Portfolio" />
+    </a>
+    <a href="https://github.com/raghav4444?tab=repositories">
+      <img src="https://img.shields.io/badge/PROJECTS-34D399?style=for-the-badge&labelColor=020805&logo=github&logoColor=34D399" alt="Projects" />
+    </a>
+    <a href="https://www.linkedin.com/in/raghvendra-singh4444">
+      <img src="https://img.shields.io/badge/LINKEDIN-34D399?style=for-the-badge&labelColor=020805&logo=linkedin&logoColor=34D399" alt="LinkedIn" />
+    </a>
+    <a href="mailto:raghavsingh99199@gmail.com">
+      <img src="https://img.shields.io/badge/CONTACT-34D399?style=for-the-badge&labelColor=020805&logo=gmail&logoColor=34D399" alt="Email" />
+    </a>
   </p>
 
 </div>
 
-<!-- ==================== 02 // ABOUT ==================== -->
-<!-- Customize this section as your career and interests evolve. -->
-
 01 // ABOUT
 name: Raghvendra Singh
-handle: raghav4444
+github: raghav4444
 role: Full Stack Developer
 location: Kanpur, Uttar Pradesh, India
 
-focus:
-  - Full-stack product development
-  - AI-powered applications and integrations
-  - Data Structures and Algorithms
-  - System design and problem solving
+currently_focusing:
+  - Data Structures & Algorithms
+  - Full-stack application development
+  - AI-powered tools and agentic workflows
+  - Backend engineering and system design
 
-philosophy: "Build with purpose. Learn without limits."
-status: "Always learning, building, and improving."
-Logline. I enjoy turning ideas into practical software — from full-stack web applications to AI-powered tools. I focus on building useful products, exploring new technologies, and strengthening the engineering fundamentals behind them.
+engineering_motto: "Build with purpose. Learn without limits."
+I enjoy turning ideas into practical software—from full-stack web applications to AI-powered tools and collaborative experiences. I care about useful features, thoughtful interfaces, reliable APIs, and the engineering fundamentals behind the product.
 
-Currently focused on: DSA, full-stack engineering, AI integration, and building better developer experiences.
-<!-- ==================== 03 // PROJECT REGISTRY ==================== -->
-<!-- Replace repository-list URLs with direct project repository URLs when known. -->
-
-02 // PROJECT_REGISTRY
-Project	Description
-Studex	Student networking platform for connecting and collaborating with peers.
-Studify	AI-powered student planner; secured 3rd place at AKTU AI Tech Confluence 2025.
-AI Agentic Whiteboard	Collaborative workspace concept combining whiteboarding and AI-assisted workflows.
-Omnifood	Responsive healthy-meal website focused on a clean user experience.
-
+I'm continuously improving my problem-solving skills while building projects that help me learn by shipping.
+02 // FEATURED PROJECTS
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✦ Studex</h3>
+      <p><b>Student Networking Platform</b></p>
+      <p>A platform concept for students to connect, share knowledge, and collaborate with peers.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Supabase</code></p>
+      <a href="https://github.com/raghav4444?tab=repositories">Explore repositories ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✦ Studify</h3>
+      <p><b>AI-Powered Student Planner</b></p>
+      <p>A student planning project focused on study organization, calendar workflows, and AI-assisted suggestions. Won 3rd place at AKTU AI Tech Confluence 2025.</p>
+      <p><code>MERN</code> <code>AI Integration</code> <code>Planning</code></p>
+      <a href="https://github.com/raghav4444?tab=repositories">Explore repositories ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✦ AI Agentic Whiteboard</h3>
+      <p><b>Collaborative AI Workspace</b></p>
+      <p>A workspace concept combining a visual canvas, real-time collaboration, and AI-assisted building workflows.</p>
+      <p><code>React</code> <code>AI Agents</code> <code>Canvas UX</code></p>
+      <a href="https://github.com/raghav4444?tab=repositories">Explore repositories ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✦ Omnifood</h3>
+      <p><b>Healthy Meal Website</b></p>
+      <p>A responsive website focused on clear presentation, polished layouts, and a smooth user experience.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+      <a href="https://github.com/raghav4444?tab=repositories">Explore repositories ↗</a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/raghav4444?tab=repositories">
-    <img
-      src="https://img.shields.io/badge/EXPLORE-PROJECTS-34D399?style=for-the-badge&labelColor=020805&logo=github&logoColor=34D399"
-      alt="Explore GitHub projects"
-    />
+    <img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-34D399?style=for-the-badge&labelColor=020805&logo=github&logoColor=34D399" alt="View all repositories" />
   </a>
 </p>
 
-<!-- ==================== 04 // TECH STACK ==================== -->
-<!-- Remove icons for technologies you no longer use or do not want to showcase. -->
-
-<a id="tech-stack"></a>
-03 // TECH_STACK
+03 // TECH STACK
 <div align="center">
 
+  <h3>Languages · Frameworks · Tools</h3>
   <img
-    src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,react,nextjs,nodejs,express,mongodb,mysql,supabase,docker,aws,git,github,vscode,postman&theme=dark"
-    alt="Programming languages, frameworks, databases, cloud and developer tools"
+    src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,react,nextjs,nodejs,express,mongodb,mysql,supabase,aws,docker,git,github,vscode,postman&theme=dark"
+    alt="Technologies used across programming, frontend, backend, databases, cloud, and development tools."
   />
-  
 
-
-  <img
-    src="https://img.shields.io/badge/AI-Integrations-34D399?style=flat-square&labelColor=020805"
-    alt="AI integrations"
-  />
-  <img
-    src="https://img.shields.io/badge/Backend-REST_APIs-34D399?style=flat-square&labelColor=020805"
-    alt="Backend and REST APIs"
-  />
-  <img
-    src="https://img.shields.io/badge/Engineering-DSA-34D399?style=flat-square&labelColor=020805"
-    alt="Data structures and algorithms"
-  />
 </div>
 
-<!-- ==================== 05 // GITHUB TELEMETRY ==================== -->
-<!-- These cards are dynamically rendered by external services. -->
+Area	Tools and concepts
+Programming	C, C++, Java, Python, JavaScript, TypeScript
+Frontend	React, Next.js, Vite, Tailwind CSS, responsive UI
+Backend	Node.js, Express.js, REST APIs, JWT authentication
+Data	MongoDB, MySQL, Supabase
+AI & Automation	LLM integrations, AI-assisted workflows, prompt engineering, automation
+Tools & Cloud	Git, GitHub, Docker, AWS, Postman, VS Code
+CS Fundamentals	Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks
 
-<a id="github-telemetry"></a>
-04 // GITHUB_TELEMETRY
-01 // GITHUB_OVERVIEW
+
+04 // GITHUB TELEMETRY
 <div align="center">
-
   <a href="https://github.com/raghav4444">
     <img
-      height="165"
+      height="175"
       src="https://github-readme-stats.vercel.app/api?username=raghav4444&show_icons=true&hide_border=true&bg_color=020805&title_color=34D399&text_color=C5D8CE&icon_color=34D399&rank_icon=github"
-      alt="GitHub contribution and repository statistics"
+      alt="GitHub profile statistics"
     />
   </a>
   <a href="https://github.com/raghav4444?tab=repositories">
     <img
-      height="165"
+      height="175"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav4444&layout=compact&hide_border=true&bg_color=020805&title_color=34D399&text_color=C5D8CE"
-      alt="Most-used programming languages"
+      alt="Most-used languages on GitHub"
     />
   </a>
-
-
-  <a href="https://github.com/raghav4444?tab=stars">
-    <img
-      src="https://img.shields.io/badge/EXPLORE-STARS-34D399?style=for-the-badge&logo=github&logoColor=020805&labelColor=020805"
-      alt="Explore starred repositories"
-    />
-  </a>
-  <a href="https://github.com/raghav4444?tab=repositories">
-    <img
-      src="https://img.shields.io/badge/BROWSE-REPOSITORIES-34D399?style=for-the-badge&logo=github&logoColor=020805&labelColor=020805"
-      alt="Browse repositories"
-    />
-  </a>
-
 </div>
 
-02 // CONTRIBUTION_INTELLIGENCE
-<!-- The activity graph is hosted by an external service. If it fails, remove
-     only this image; the contribution snake below is generated separately. -->
-
-<div align="center">
+<p align="center">
   <img
     width="100%"
     src="https://github-readme-activity-graph.vercel.app/graph?username=raghav4444&bg_color=020805&color=C5D8CE&line=34D399&point=4ADE80&area=true&hide_border=true"
     alt="GitHub contribution activity graph"
   />
-</div>
+</p>
 
-<!-- NEON SNAKE:
-     This URL assumes neon-snake.yml publishes neon-snake.gif to the output branch.
-     Confirm that output/neon-snake.gif exists in your repository after a successful
-     Actions run. If your workflow uses a different filename, update the URL below. -->
+05 // NEON PREDATOR
+<p align="center">
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/raghav4444/raghav4444/output/neon-snake.gif"
+    alt="Neon Predator — custom animated snake generated from GitHub contribution activity."
+  />
+</p>
 
-<div align="center">
-  <a href="https://github.com/raghav4444">
-    <img
-      width="100%"
-      src="https://raw.githubusercontent.com/raghav4444/raghav4444/output/neon-snake.gif"
-      alt="Animated neon GitHub contribution snake"
-    />
-  </a>
-</div>
+<p align="center">
+  <sub>Custom animation generated by <code>scripts/generate_neon_snake.py</code> and published by the Neon Snake GitHub Actions workflow.</sub>
+</p>
 
-03 // BREAKDOWN_RENDER_LOG
-<!-- The generated Breakdown script visualizes your contribution history
-     and featured repository information. Keep its companion SVG assets. -->
+If the snake does not appear: the GIF must exist at output/neon-snake.gif on the repository's output branch. Run the Neon Snake workflow in GitHub Actions and check that the run succeeds. If another workflow also publishes to output, configure the workflows so they preserve both the GIF and the contribution SVGs.
 
-<div align="center">
+06 // BREAKDOWN RENDER LOG
+<p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -211,103 +199,54 @@ Omnifood	Responsive healthy-meal website focused on a clean user experience.
     <img
       src="./assets/breakdown-script-light.svg"
       width="100%"
-      alt="Breakdown render log showing GitHub activity, featured repositories, and programming language distribution."
+      alt="Breakdown render log visualizing GitHub activity, featured repositories, and programming language distribution."
     />
   </picture>
-</div>
+</p>
 
 <details>
-  <summary><sub>How to read the Breakdown</sub></summary>
+  <summary><b>How to read the Breakdown</b></summary>
 
-- The shot: Your contribution history becomes a visual landscape.
-- The timeline: Daily activity is represented across the contribution period.
-- The comp script: Featured repositories are incorporated into the generated artwork.
-- The colour chart: Programming language distribution provides a snapshot of your public code.
-- The end card: The cinematic closing artwork completes the experience.
-  <sub>Artwork and exact metrics depend on the generated template assets and available GitHub data.</sub>
+- The shot: contribution history becomes a visual landscape.
+- The timeline: activity is represented across the contribution period.
+- The project layer: featured repository information adds context.
+- The language view: programming language distribution offers a snapshot of public code.
+- The end card: a cinematic close to the profile experience.
+  <sub>Artwork and metrics depend on the generated assets and available GitHub data.</sub>
 </details>
 
-04 // DEVELOPER_ANALYTICS
+07 // CURRENT MINDSET
 <div align="center">
-
   <img
-    width="45%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav4444&layout=donut&hide_border=true&bg_color=020805&title_color=34D399&text_color=C5D8CE"
-    alt="Programming language distribution donut chart"
-  />
-  
-
-
-  <a href="https://github.com/raghav4444?tab=repositories">
-    <img
-      src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-34D399?style=for-the-badge&labelColor=020805&logo=github"
-      alt="Explore repositories"
-    />
-  </a>
-  <a href="https://github.com/raghav4444?tab=repositories">
-    <img
-      src="https://img.shields.io/badge/PROJECTS-OPEN-34D399?style=for-the-badge&labelColor=020805&logo=git"
-      alt="Open projects"
-    />
-  </a>
-
-</div>
-
-<!-- ==================== 06 // CONNECT ==================== -->
-<!-- Update the email or portfolio URL if your contact details change. -->
-
-05 // CONNECT
-<div align="center">
-
-  <a href="https://github.com/raghav4444">
-    <img
-      src="https://img.shields.io/badge/GitHub-020805?style=for-the-badge&logo=github&logoColor=34D399"
-      alt="GitHub"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/raghvendra-singh4444">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-020805?style=for-the-badge&logo=linkedin&logoColor=34D399"
-      alt="LinkedIn"
-    />
-  </a>
-  <a href="mailto:raghavsingh99199@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-020805?style=for-the-badge&logo=gmail&logoColor=34D399"
-      alt="Email"
-    />
-  </a>
-  <a href="https://portfolio-2-0-seven-virid.vercel.app/">
-    <img
-      src="https://img.shields.io/badge/Portfolio-020805?style=for-the-badge&logo=vercel&logoColor=34D399"
-      alt="Portfolio"
-    />
-  </a>
-
-</div>
-
-<!-- ==================== 07 // DAILY MINDSET ==================== -->
-<!-- Keep the quotes short and use this section to express your philosophy. -->
-
-06 // DAILY_MINDSET
-<div align="center">
-
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=19&duration=3000&pause=2500&color=D4AF37&center=true&vCenter=true&width=900&height=110&lines=BUILD+WITH+PURPOSE.;LEARN+WITHOUT+LIMITS.;PROGRESS+OVER+PERFECTION.;FIRST%2C+SOLVE+THE+PROBLEM.+THEN%2C+WRITE+THE+CODE."
+    src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=19&duration=3000&pause=2500&color=D4AF37&center=true&vCenter=true&width=850&height=100&lines=BUILD+WITH+PURPOSE.;LEARN+WITHOUT+LIMITS.;PROGRESS+OVER+PERFECTION.;SOLVE+THE+PROBLEM.+THEN+WRITE+THE+CODE."
     alt="Animated developer mindset quotes"
   />
-
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=400&size=13&duration=2600&pause=1000&color=C5D8CE&center=true&vCenter=true&width=650&height=35&lines=TURN+IDEAS+INTO+PRODUCTS.;STAY+CURIOUS.+KEEP+BUILDING.;SMALL+STEPS.+REAL+PROGRESS."
-    alt="Developer principles"
-  />
 </div>
 
-<!-- ==================== 08 // CINEMATIC END CARD ==================== -->
-<!-- Generated by README Templates. Keep the asset paths in sync with the
-     actual filenames exported by your installed version of the template. -->
-
 <div align="center">
+
+  Curiosity → Experimentation → Building → Iteration
+
+  I believe consistent practice and real projects are among the best ways to become a better engineer.
+</div>
+
+08 // LET'S CONNECT
+<div align="center">
+  <a href="https://github.com/raghav4444">
+    <img src="https://img.shields.io/badge/GitHub-020805?style=for-the-badge&logo=github&logoColor=34D399" alt="GitHub profile" />
+  </a>
+  <a href="https://www.linkedin.com/in/raghvendra-singh4444">
+    <img src="https://img.shields.io/badge/LinkedIn-020805?style=for-the-badge&logo=linkedin&logoColor=34D399" alt="LinkedIn profile" />
+  </a>
+  <a href="mailto:raghavsingh99199@gmail.com">
+    <img src="https://img.shields.io/badge/Email-020805?style=for-the-badge&logo=gmail&logoColor=34D399" alt="Email Raghvendra" />
+  </a>
+  <a href="https://portfolio-2-0-seven-virid.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-020805?style=for-the-badge&logo=vercel&logoColor=34D399" alt="Personal portfolio" />
+  </a>
+</div>
+
+<p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -316,14 +255,11 @@ Omnifood	Responsive healthy-meal website focused on a clean user experience.
     <img
       src="./assets/breakdown-end-light.svg"
       width="100%"
-      alt="Cinematic end card — Thanks for watching."
+      alt="Cinematic end card — Thanks for visiting."
     />
   </picture>
-</div>
+</p>
 
-<div align="center">
-  <sub>
-    NeoTerminal dashboard: scripts/update_dashboard.py · Breakdown artwork: README Templates.
-    Neon snake: GitHub Actions workflow. Made with curiosity, code, and continuous learning.
-  </sub>
-</div>
+<p align="center">
+  <sub>Designed around curiosity, built with code, and improved one iteration at a time.</sub>
+</p>
