@@ -33,13 +33,13 @@
 
 <!-- =========================== LIVE DASHBOARD =========================== -->
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="./assets/dashboard.svg"
     width="100%"
     alt="NeoTerminal dashboard generated from GitHub profile data."
   />
-</p>
+</p> -->
 
 <!-- ============================== INTRO ============================== -->
 
