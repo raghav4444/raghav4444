@@ -17,16 +17,15 @@
   <h3>Full Stack Developer · AI Integrations · Problem Solver</h3>
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2600&pause=900&color=39FF14&center=true&vCenter=true&repeat=true&width=760&height=36&lines=%24+whoami+%E2%86%92+Full+Stack+Developer;%24+mission+%E2%86%92+Turn+ideas+into+useful+products;%24+focus+%E2%86%92+MERN+%7C+AI+%7C+DSA;%24+status+%E2%86%92+Always+building"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2600&pause=900&color=34D399&center=true&vCenter=true&repeat=true&width=760&height=36&lines=%24+whoami+%E2%86%92+Full+Stack+Developer;%24+mission+%E2%86%92+Turn+ideas+into+useful+products;%24+focus+%E2%86%92+MERN+%7C+AI+%7C+DSA;%24+status+%E2%86%92+Always+building"
     alt="Animated terminal introduction"
   />
   <p>
-    <a href="https://portfolio-2-0-seven-virid.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-39FF14?style=for-the-badge&labelColor=020805&logo=vercel&logoColor=39FF14" alt="Portfolio" /></a>
-    <a href="https://github.com/raghav4444?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-39FF14?style=for-the-badge&labelColor=020805&logo=github&logoColor=39FF14" alt="Projects" /></a>
-    <a href="https://www.linkedin.com/in/raghvendra-singh4444"><img src="https://img.shields.io/badge/LINKEDIN-39FF14?style=for-the-badge&labelColor=020805&logo=linkedin&logoColor=39FF14" alt="LinkedIn" /></a>
-    <a href="mailto:raghavsingh99199@gmail.com"><img src="https://img.shields.io/badge/CONTACT-39FF14?style=for-the-badge&labelColor=020805&logo=gmail&logoColor=39FF14" alt="Email" /></a>
+    <a href="https://portfolio-2-0-seven-virid.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-39FF14?style=for-the-badge&labelColor=020805&logo=vercel&logoColor=34D399" alt="Portfolio" /></a>
+    <a href="https://github.com/raghav4444?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-39FF14?style=for-the-badge&labelColor=020805&logo=github&logoColor=34D399" alt="Projects" /></a>
+    <a href="https://www.linkedin.com/in/raghvendra-singh4444"><img src="https://img.shields.io/badge/LINKEDIN-39FF14?style=for-the-badge&labelColor=020805&logo=linkedin&logoColor=34D399" alt="LinkedIn" /></a>
+    <a href="mailto:raghavsingh99199@gmail.com"><img src="https://img.shields.io/badge/CONTACT-39FF14?style=for-the-badge&labelColor=020805&logo=gmail&logoColor=34D399" alt="Email" /></a>
   </p>
-
 </div>
 
 01 // ABOUT
@@ -82,7 +81,7 @@ I'm continuously improving my problem-solving skills while building projects tha
 </table>
 
 <p align="center">
-  <a href="https://github.com/raghav4444?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-39FF14?style=for-the-badge&labelColor=020805&logo=github&logoColor=39FF14" alt="View all repositories" /></a>
+  <a href="https://github.com/raghav4444?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-39FF14?style=for-the-badge&labelColor=020805&logo=github&logoColor=34D399" alt="View all repositories" /></a>
 </p>
 
 03 // TECH STACK
@@ -103,10 +102,8 @@ Tools & Cloud	Git, GitHub, Docker, AWS, Postman, VS Code
 CS Fundamentals	Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks
 
 
-### `04 // GITHUB_TELEMETRY`
-
-
-<h3 align="center">01 // GITHUB_OVERVIEW</h3>
+04 // GITHUB TELEMETRY
+<h3 align="center">01 / GITHUB OVERVIEW</h3>
 
 <div align="center">
 
@@ -126,14 +123,11 @@ CS Fundamentals	Data Structures & Algorithms, OOP, DBMS, Operating Systems, Comp
 
 </div>
 
-
-<h3 align="center">02 // CONTRIBUTION_INTELLIGENCE</h3>
+<h3 align="center">02 / CONTRIBUTION INTELLIGENCE</h3>
 
 <div align="center">
 
-
 <!-- <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=raghav4444&bg_color=020805&color=C5D8CE&line=34D399&point=4ADE80&area=true&hide_border=true" alt="GitHub contribution activity graph" /> -->
-
 
 <a href="https://github.com/raghav4444">
   <img width="100%" src="https://raw.githubusercontent.com/raghav4444/raghav4444/output/neon-snake.gif" alt="Animated neon contribution snake" />
@@ -141,16 +135,12 @@ CS Fundamentals	Data Structures & Algorithms, OOP, DBMS, Operating Systems, Comp
 
 </div>
 
-
-
-
-<h3 align="center">03 // DEVELOPER_ANALYTICS</h3>
+<h3 align="center">03 / DEVELOPER ANALYTICS</h3>
 
 <div align="center">
 
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav4444&layout=donut&hide_border=true&bg_color=020805&title_color=34D399&text_color=C5D8CE" alt="Programming language distribution" />
 
-<br/>
 
 <a href="https://github.com/raghav4444?tab=repositories">
   <img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-34D399?style=for-the-badge&labelColor=020805&logo=github" alt="Explore projects" />
@@ -180,7 +170,6 @@ CS Fundamentals	Data Structures & Algorithms, OOP, DBMS, Operating Systems, Comp
       alt="Most-used programming languages"
     />
   </a>
-
 
   <a href="https://github.com/raghav4444?tab=stars">
     <img
@@ -212,11 +201,10 @@ CS Fundamentals	Data Structures & Algorithms, OOP, DBMS, Operating Systems, Comp
      Confirm that output/neon-snake.gif exists in your repository after a successful
      Actions run. If your workflow uses a different filename, update the URL below. -->
 
-
-06 // CURRENT MINDSET
+05 // CURRENT MINDSET
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=19&duration=3000&pause=2500&color=D4AF37&center=true&vCenter=true&width=850&height=100&lines=BUILD+WITH+PURPOSE.;LEARN+WITHOUT+LIMITS.;PROGRESS+OVER+PERFECTION.;SOLVE+THE+PROBLEM.+THEN+WRITE+THE+CODE."
+    src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=19&duration=3000&pause=2500&color=34D399&center=true&vCenter=true&width=850&height=100&lines=BUILD+WITH+PURPOSE.;LEARN+WITHOUT+LIMITS.;PROGRESS+OVER+PERFECTION.;SOLVE+THE+PROBLEM.+THEN+WRITE+THE+CODE."
     alt="Animated developer mindset quotes"
   />
 </div>
@@ -227,8 +215,6 @@ CS Fundamentals	Data Structures & Algorithms, OOP, DBMS, Operating Systems, Comp
 
   I believe consistent practice and real projects are among the best ways to become a better engineer.
 </div>
-
-
 
 <p align="center">
   <picture>
@@ -248,7 +234,7 @@ CS Fundamentals	Data Structures & Algorithms, OOP, DBMS, Operating Systems, Comp
   <sub>Designed around curiosity, built with code, and improved one iteration at a time.</sub>
 </p>
 
-07 // LET'S CONNECT
+06 // LET'S CONNECT
 <div align="center">
   <a href="https://github.com/raghav4444">
     <img src="https://img.shields.io/badge/GitHub-020805?style=for-the-badge&logo=github&logoColor=34D399" alt="GitHub profile" />
