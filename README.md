@@ -124,11 +124,10 @@ CS Fundamentals	Data Structures & Algorithms, OOP, DBMS, Operating Systems, Comp
 <a href="https://github.com/raghav4444?tab=repositories">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=raghav4444&show_icons=true&hide_border=true&bg_color=020805&title_color=34D399&text_color=C5D8CE&icon_color=34D399&rank_icon=github" alt="GitHub overview" />
 </a>
-<br>
 <a href="https://github.com/raghav4444?tab=repositories">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav4444&layout=compact&hide_border=true&bg_color=020805&title_color=34D399&text_color=C5D8CE" alt="Top programming languages" />
 </a>
-
+<br>
 <a href="https://github.com/raghav4444?tab=stars">
   <img src="https://img.shields.io/badge/EXPLORE-STARS-34D399?style=for-the-badge&logo=github&logoColor=020805&labelColor=020805" alt="Explore stars" />
 </a>
