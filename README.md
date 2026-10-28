@@ -89,7 +89,12 @@ I'm continuously improving my problem-solving skills while building projects tha
 </table>
 
 <p align="center">
-  <a href="https://github.com/raghav4444?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-39FF14?style=for-the-badge&labelColor=020805&logo=github" alt="View all repositories" /></a>
+  <a href="https://github.com/raghav4444?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-C9D1D9?style=for-the-badge&labelColor=161B22&logo=github&logoColor=6EE7B7"
+      alt="View all repositories"
+    />
+  </a>
 </p>
 <!--labelColor=020805&-->
 
@@ -119,6 +124,7 @@ CS Fundamentals	Data Structures & Algorithms, OOP, DBMS, Operating Systems, Comp
 <a href="https://github.com/raghav4444?tab=repositories">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=raghav4444&show_icons=true&hide_border=true&bg_color=020805&title_color=34D399&text_color=C5D8CE&icon_color=34D399&rank_icon=github" alt="GitHub overview" />
 </a>
+<br>
 <a href="https://github.com/raghav4444?tab=repositories">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav4444&layout=compact&hide_border=true&bg_color=020805&title_color=34D399&text_color=C5D8CE" alt="Top programming languages" />
 </a>
