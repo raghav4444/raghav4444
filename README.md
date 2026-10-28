@@ -188,13 +188,12 @@ status: "Always learning, building, and improving."
 
 <div align="center">
 
-  <a href="https://github.com/raghav4444">
-    <img
-      width="100%"
-      src="https://raw.githubusercontent.com/raghav4444/raghav4444/output/neon-snake.gif"
-      alt="Animated neon contribution snake"
-    />
-  </a>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=raghav4444&bg_color=020805&color=C5D8CE&line=34D399&point=4ADE80&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+
+
+<a href="https://github.com/raghav4444">
+  <img width="100%" src="https://raw.githubusercontent.com/raghav4444/raghav4444/output/neon-snake.gif" alt="Animated neon contribution snake" />
+</a>
 
 </div>
 
