@@ -21,10 +21,11 @@
     alt="Animated terminal introduction"
   />
   <p>
-    <a href="https://latest-portfolio-lsxt.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-39FF14?style=for-the-badge&logo=vercel&logoColor=34D399" alt="Portfolio" /></a>
-    <a href="https://github.com/raghav4444?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-39FF14?style=for-the-badge&logo=github&logoColor=34D399" alt="Projects" /></a>
+    <a href="https://latest-portfolio-lsxt.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-39FF14?style=for-the-badge&labelColor=020805&logo=vercel" alt="Portfolio" /></a>
+    <a href="https://github.com/raghav4444?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-39FF14?style=for-the-badge&labelColor=020805&logo=github" alt="Projects" /></a>
     <a href="https://www.linkedin.com/in/raghvendra-singh4444"><img src="https://img.shields.io/badge/LINKEDIN-39FF14?style=for-the-badge&logo=linkedin&logoColor=34D399" alt="LinkedIn" /></a>
-    <a href="mailto:raghavsingh99199@gmail.com"><img src="https://img.shields.io/badge/CONTACT-39FF14?style=for-the-badge&logo=gmail&logoColor=34D399" alt="Email" /></a>
+    <a href="mailto:raghavsingh99199@gmail.com"><img src="https://img.shields.io/badge/CONTACT-39FF14?style=for-the-badge&labelColor=020805&logo=gmail" alt="Email" /></a>
+    <!--&logoColor=34D399 -->
   </p>
 </div>
 
@@ -81,7 +82,7 @@ I'm continuously improving my problem-solving skills while building projects tha
 </table>
 
 <p align="center">
-  <a href="https://github.com/raghav4444?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-39FF14?style=for-the-badge&logo=github&logoColor=34D399" alt="View all repositories" /></a>
+  <a href="https://github.com/raghav4444?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-39FF14?style=for-the-badge&labelColor=020805&logo=github" alt="View all repositories" /></a>
 </p>
 <!--labelColor=020805&-->
 
