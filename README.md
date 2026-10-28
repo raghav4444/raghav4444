@@ -21,10 +21,10 @@
     alt="Animated terminal introduction"
   />
   <p>
-    <a href="https://portfolio-2-0-seven-virid.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-39FF14?style=for-the-badge&labelColor=020805&logo=vercel&logoColor=34D399" alt="Portfolio" /></a>
-    <a href="https://github.com/raghav4444?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-39FF14?style=for-the-badge&labelColor=020805&logo=github&logoColor=34D399" alt="Projects" /></a>
-    <a href="https://www.linkedin.com/in/raghvendra-singh4444"><img src="https://img.shields.io/badge/LINKEDIN-39FF14?style=for-the-badge&labelColor=020805&logo=linkedin&logoColor=34D399" alt="LinkedIn" /></a>
-    <a href="mailto:raghavsingh99199@gmail.com"><img src="https://img.shields.io/badge/CONTACT-39FF14?style=for-the-badge&labelColor=020805&logo=gmail&logoColor=34D399" alt="Email" /></a>
+    <a href="https://latest-portfolio-lsxt.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-39FF14?style=for-the-badge&logo=vercel&logoColor=34D399" alt="Portfolio" /></a>
+    <a href="https://github.com/raghav4444?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-39FF14?style=for-the-badge&logo=github&logoColor=34D399" alt="Projects" /></a>
+    <a href="https://www.linkedin.com/in/raghvendra-singh4444"><img src="https://img.shields.io/badge/LINKEDIN-39FF14?style=for-the-badge&logo=linkedin&logoColor=34D399" alt="LinkedIn" /></a>
+    <a href="mailto:raghavsingh99199@gmail.com"><img src="https://img.shields.io/badge/CONTACT-39FF14?style=for-the-badge&logo=gmail&logoColor=34D399" alt="Email" /></a>
   </p>
 </div>
 
@@ -81,8 +81,9 @@ I'm continuously improving my problem-solving skills while building projects tha
 </table>
 
 <p align="center">
-  <a href="https://github.com/raghav4444?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-39FF14?style=for-the-badge&labelColor=020805&logo=github&logoColor=34D399" alt="View all repositories" /></a>
+  <a href="https://github.com/raghav4444?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-39FF14?style=for-the-badge&logo=github&logoColor=34D399" alt="View all repositories" /></a>
 </p>
+<!--labelColor=020805&-->
 
 03 // TECH STACK
 <div align="center">
@@ -141,6 +142,7 @@ CS Fundamentals	Data Structures & Algorithms, OOP, DBMS, Operating Systems, Comp
 
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav4444&layout=donut&hide_border=true&bg_color=020805&title_color=34D399&text_color=C5D8CE" alt="Programming language distribution" />
 
+<br>
 
 <a href="https://github.com/raghav4444?tab=repositories">
   <img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-34D399?style=for-the-badge&labelColor=020805&logo=github" alt="Explore projects" />
