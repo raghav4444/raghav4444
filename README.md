@@ -20,13 +20,20 @@
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2600&pause=900&color=34D399&center=true&vCenter=true&repeat=true&width=760&height=36&lines=%24+whoami+%E2%86%92+Full+Stack+Developer;%24+mission+%E2%86%92+Turn+ideas+into+useful+products;%24+focus+%E2%86%92+MERN+%7C+AI+%7C+DSA;%24+status+%E2%86%92+Always+building"
     alt="Animated terminal introduction"
   />
-  <p>
-    <a href="https://latest-portfolio-lsxt.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-39FF14?style=for-the-badge&labelColor=020805&logo=vercel" alt="Portfolio" /></a>
-    <a href="https://github.com/raghav4444?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-39FF14?style=for-the-badge&labelColor=020805&logo=github" alt="Projects" /></a>
-    <a href="https://www.linkedin.com/in/raghvendra-singh4444"><img src="https://img.shields.io/badge/LINKEDIN-39FF14?style=for-the-badge&logo=linkedin&logoColor=34D399" alt="LinkedIn" /></a>
-    <a href="mailto:raghavsingh99199@gmail.com"><img src="https://img.shields.io/badge/CONTACT-39FF14?style=for-the-badge&labelColor=020805&logo=gmail" alt="Email" /></a>
-    <!--&logoColor=34D399 -->
-  </p>
+<p align="center">
+  <a href="https://latest-portfolio-lsxt.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-C9D1D9?style=for-the-badge&labelColor=161B22&logo=vercel&logoColor=6EE7B7" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/raghav4444?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-C9D1D9?style=for-the-badge&labelColor=161B22&logo=github&logoColor=6EE7B7" alt="Projects" />
+  </a>
+  <a href="https://www.linkedin.com/in/raghvendra-singh4444">
+    <img src="https://img.shields.io/badge/LinkedIn-C9D1D9?style=for-the-badge&labelColor=161B22&logo=linkedin&logoColor=6EE7B7" alt="LinkedIn" />
+  </a>
+  <a href="mailto:raghavsingh99199@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-C9D1D9?style=for-the-badge&labelColor=161B22&logo=gmail&logoColor=6EE7B7" alt="Contact" />
+  </a>
+</p>
 </div>
 
 01 // ABOUT
