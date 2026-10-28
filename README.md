@@ -1,134 +1,52 @@
-<div align="center">
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/breakdown-hero-dark.svg">
+  <img alt="Raghvendra Singh : GitHub profile. A visual-effects shot breakdown: a city with one tower for every day of the last year, as tall as that day was busy, shown as wireframe, clay, normals and depth passes and then the final sunset beauty pass, with the name as the title. 995 contributions on 110 active days." src="./assets/breakdown-hero-light.svg" width="100%">
+</picture>
+</p>
 
-<img width="100%" src="./assets/dashboard.svg" alt="Automatically updated NeoTerminal GitHub dashboard" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2600&pause=900&color=34D399&center=true&vCenter=true&repeat=true&width=700&height=35&lines=%24+whoami+%E2%86%92+Full+Stack+Developer;%24+mission+%E2%86%92+Turn+ideas+into+products;%24+focus+%E2%86%92+MERN+%7C+AI+%7C+System+Design" alt="Animated terminal introduction" />
-
-[PROJECTS](https://github.com/raghav4444?tab=repositories) · [TECH STACK](#tech-stack) · [GITHUB TELEMETRY](#github-telemetry) · [LINKEDIN](https://www.linkedin.com/in/raghvendra-singh4444)
-
-</div>
-
----
-
-### `01 // ABOUT`
-
-```yaml
-name: Raghvendra Singh
-handle: raghav4444
-role: Full Stack Developer
-location: Kanpur, Uttar Pradesh, India
-focus: [Full-stack products, AI integration, DSA, system design]
-```
-
-### `02 // PROJECT_REGISTRY`
-
-| Project | Description |
-|---|---|
-| [Studex](https://github.com/raghav4444?tab=repositories) | Student networking platform |
-| [Studify](https://github.com/raghav4444?tab=repositories) | AI study planner; 3rd place at AKTU AI Tech Confluence 2025 |
-| [Omnifood](https://github.com/raghav4444?tab=repositories) | Responsive healthy-meal website |
-
-### `03 // TECH_STACK`
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,react,nextjs,nodejs,express,mongodb,mysql,supabase,docker,aws,git,github,vscode,postman&theme=dark" alt="Technology stack" />
-</div>
-
-### `04 // GITHUB_TELEMETRY`
+<p align="center"><b>Raghvendra Singh </b></p>
 
 
-<h3 align="center">01 // GITHUB_OVERVIEW</h3>
+#### Comp script
 
-<div align="center">
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/breakdown-script-dark.svg">
+  <img alt="Comp script: the last year is the background plate, frames 1001 to 1365, with Studex2.0, Scalper-AI, Scatch, Code_Reviewer merged over it, then graded, written out as v110 and viewed. Render log: 995 contributions on 110 active days, longest streak 25 days, longest break 80 days, peak day October 17 with 108, 9 followers, 26 stars, on GitHub since 2024. Languages: TypeScript 68%, JavaScript 15%, CSS 5%, HTML 4%, PLpgSQL 4%, EJS 3%." src="./assets/breakdown-script-light.svg" width="100%">
+</picture>
+</p>
 
-<a href="https://github.com/raghav4444?tab=repositories">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=raghav4444&show_icons=true&hide_border=true&bg_color=020805&title_color=34D399&text_color=C5D8CE&icon_color=34D399&rank_icon=github" alt="GitHub overview" />
-</a>
-<a href="https://github.com/raghav4444?tab=repositories">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav4444&layout=compact&hide_border=true&bg_color=020805&title_color=34D399&text_color=C5D8CE" alt="Top programming languages" />
-</a>
+<details>
+<summary><sub>Reading the breakdown</sub></summary>
 
-<a href="https://github.com/raghav4444?tab=stars">
-  <img src="https://img.shields.io/badge/EXPLORE-STARS-34D399?style=for-the-badge&logo=github&logoColor=020805&labelColor=020805" alt="Explore stars" />
-</a>
-<a href="https://github.com/raghav4444?tab=repositories">
-  <img src="https://img.shields.io/badge/BROWSE-REPOSITORIES-34D399?style=for-the-badge&logo=github&logoColor=020805&labelColor=020805" alt="Browse repositories" />
-</a>
+- **The shot:** one tower per day of the last 12 months and one row per week, laid out like the contribution calendar (Sunday on the left). A tower is as tall as that day was busy, relative to your busiest day. This week is nearest the camera; the oldest week recedes toward the sun.
+- **The passes:** wireframe, clay, normals and depth are the render passes a CG artist checks before a shot goes out. The hero wipes through them to the final beauty pass, the way a breakdown reel does.
+- **The timeline:** one frame per day, from frame 1001 (where shots start) to 1365. Bar heights are daily contributions, and the diamond marks your busiest day.
+- **Comp script:** the year is the background plate. Featured repositories are Read nodes merged over it, each with a material preview in its language colour. The result is graded, then written out as version v110: one version for every active day.
+- **Colour chart:** language share by bytes across public repositories, above a grey ramp.
+- **The end card:** an on-set lighting reference kit, with a grey ball, a chrome ball reflecting the shot's sunset and a colour chart.
 
-</div>
+<sub>Artwork: original animated SVG, generated by README Templates · template: Breakdown. Motion stops if your system asks for reduced motion.</sub>
 
+</details>
 
-<h3 align="center">02 // CONTRIBUTION_INTELLIGENCE</h3>
+#### Credits
 
-<div align="center">
+- **[Studex2.0](https://github.com/raghav4444/Studex2.0)**  
+  <sub>TypeScript · ★ 1</sub>
+- **[Scalper-AI](https://github.com/raghav4444/Scalper-AI)**  
+  <sub>TypeScript · ★ 1</sub>
+- **[Scatch](https://github.com/raghav4444/Scatch)**  
+  <sub>EJS · ★ 1</sub>
+- **[Code_Reviewer](https://github.com/raghav4444/Code_Reviewer)**  
+  <sub>JavaScript · ★ 1</sub>
 
+**Toolkit:** TypeScript · JavaScript · CSS · HTML
 
-<!-- <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=raghav4444&bg_color=020805&color=C5D8CE&line=34D399&point=4ADE80&area=true&hide_border=true" alt="GitHub contribution activity graph" /> -->
-
-
-<a href="https://github.com/raghav4444">
-  <img width="100%" src="https://raw.githubusercontent.com/raghav4444/raghav4444/output/neon-snake.gif" alt="Animated neon contribution snake" />
-</a>
-
-</div>
-
-
-
-
-<h3 align="center">03 // DEVELOPER_ANALYTICS</h3>
-
-<div align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav4444&layout=donut&hide_border=true&bg_color=020805&title_color=34D399&text_color=C5D8CE" alt="Programming language distribution" />
-
-<br/>
-
-<a href="https://github.com/raghav4444?tab=repositories">
-  <img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-34D399?style=for-the-badge&labelColor=020805&logo=github" alt="Explore projects" />
-</a>
-
-<a href="https://github.com/raghav4444?tab=repositories">
-  <img src="https://img.shields.io/badge/PROJECTS-OPEN-34D399?style=for-the-badge&labelColor=020805&logo=git" alt="Open projects" />
-</a>
-
-</div>
-
-
-
-
-### `05 // CONNECT`
-
-<div align="center">
-<a href="https://github.com/raghav4444"><img src="https://img.shields.io/badge/GitHub-020805?style=for-the-badge&logo=github&logoColor=34D399" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/raghvendra-singh4444"><img src="https://img.shields.io/badge/LinkedIn-020805?style=for-the-badge&logo=linkedin&logoColor=34D399" alt="LinkedIn" /></a>
-<a href="mailto:raghavsingh99199@gmail.com"><img src="https://img.shields.io/badge/Email-020805?style=for-the-badge&logo=gmail&logoColor=34D399" alt="Email" /></a>
-<a href="https://portfolio-2-0-seven-virid.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-020805?style=for-the-badge&logo=vercel&logoColor=34D399" alt="Portfolio" /></a>
-</div>
-
-<div align="center"><sub>Dashboard refreshed by GitHub Actions. README links are clickable; arbitrary JavaScript is not supported in GitHub README files.</sub></div>
-
-
----
-
-
----
-
-<h3>06 // DAILY_MINDSET</h3>
-
-<div align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=19&duration=300&pause=6000&color=D4AF37&center=true&vCenter=true&width=900&height=110&lines=%22If+you+cannot+do+great+things%2C+do+small+things+in+a+great+way.%22+%E2%80%94+Napoleon+Hill;%22It+always+seems+impossible+until+it%27s+done.%22;%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22&repeat=true"
-  alt="Looping motivational quotes including Napoleon Hill"
-/>
-
-<br/>
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=400&size=13&duration=300&pause=6000&color=C5D8CE&center=true&vCenter=true&width=650&height=35&lines=BUILD+WITH+PURPOSE.;LEARN+WITHOUT+LIMITS.;PROGRESS+OVER+PERFECTION.&repeat=true"
-  alt="Developer principles"
-/>
-
-
-</div>
-
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/breakdown-end-dark.svg">
+  <img alt="End card: an on-set lighting reference kit, with a grey ball, a chrome ball and a colour chart. Thanks for watching." src="./assets/breakdown-end-light.svg" width="100%">
+</picture>
+</p>
