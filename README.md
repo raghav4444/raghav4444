@@ -1,47 +1,15 @@
 <!--
-  RAGHVENDRA SINGH — GITHUB PROFILE README
-  Visual direction: NeoTerminal × Neon Predator × Cinematic Breakdown
-  Repository: https://github.com/raghav4444/raghav4444
-
-  Required local assets:
-  assets/breakdown-hero-dark.svg
-  assets/breakdown-hero-light.svg
-  assets/dashboard.svg
-  assets/breakdown-script-dark.svg
-  assets/breakdown-script-light.svg
-  assets/breakdown-end-dark.svg
-  assets/breakdown-end-light.svg
-
-  The custom neon snake GIF is published by neon-snake.yml to the output branch.
+  RAGHVENDRA SINGH — GITHUB PROFILE
+  Style: NeoTerminal × Neon Predator
+  Keep the artwork files in /assets and the snake workflow in /.github/workflows.
 -->
-
-<!-- ============================== HERO ============================== -->
 
 <p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="./assets/breakdown-hero-dark.svg"
-    />
-    <img
-      src="./assets/breakdown-hero-light.svg"
-      width="100%"
-      alt="Raghvendra Singh — Full Stack Developer building web products and AI-powered applications."
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/breakdown-hero-dark.svg" />
+    <img src="./assets/breakdown-hero-light.svg" width="100%" alt="Raghvendra Singh — Full Stack Developer building web products and AI-powered applications." />
   </picture>
 </p>
-
-<!-- =========================== LIVE DASHBOARD =========================== -->
-
-<!-- <p align="center">
-  <img
-    src="./assets/dashboard.svg"
-    width="100%"
-    alt="NeoTerminal dashboard generated from GitHub profile data."
-  />
-</p> -->
-
-<!-- ============================== INTRO ============================== -->
 
 <div align="center">
 
@@ -49,22 +17,14 @@
   <h3>Full Stack Developer · AI Integrations · Problem Solver</h3>
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2600&pause=900&color=34D399&center=true&vCenter=true&repeat=true&width=760&height=36&lines=%24+whoami+%E2%86%92+Full+Stack+Developer;%24+mission+%E2%86%92+Turn+ideas+into+useful+products;%24+focus+%E2%86%92+MERN+%7C+AI+%7C+DSA;%24+status+%E2%86%92+Always+building"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2600&pause=900&color=39FF14&center=true&vCenter=true&repeat=true&width=760&height=36&lines=%24+whoami+%E2%86%92+Full+Stack+Developer;%24+mission+%E2%86%92+Turn+ideas+into+useful+products;%24+focus+%E2%86%92+MERN+%7C+AI+%7C+DSA;%24+status+%E2%86%92+Always+building"
     alt="Animated terminal introduction"
   />
   <p>
-    <a href="https://portfolio-2-0-seven-virid.vercel.app/">
-      <img src="https://img.shields.io/badge/PORTFOLIO-34D399?style=for-the-badge&labelColor=020805&logo=vercel&logoColor=34D399" alt="Portfolio" />
-    </a>
-    <a href="https://github.com/raghav4444?tab=repositories">
-      <img src="https://img.shields.io/badge/PROJECTS-34D399?style=for-the-badge&labelColor=020805&logo=github&logoColor=34D399" alt="Projects" />
-    </a>
-    <a href="https://www.linkedin.com/in/raghvendra-singh4444">
-      <img src="https://img.shields.io/badge/LINKEDIN-34D399?style=for-the-badge&labelColor=020805&logo=linkedin&logoColor=34D399" alt="LinkedIn" />
-    </a>
-    <a href="mailto:raghavsingh99199@gmail.com">
-      <img src="https://img.shields.io/badge/CONTACT-34D399?style=for-the-badge&labelColor=020805&logo=gmail&logoColor=34D399" alt="Email" />
-    </a>
+    <a href="https://portfolio-2-0-seven-virid.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-39FF14?style=for-the-badge&labelColor=020805&logo=vercel&logoColor=39FF14" alt="Portfolio" /></a>
+    <a href="https://github.com/raghav4444?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-39FF14?style=for-the-badge&labelColor=020805&logo=github&logoColor=39FF14" alt="Projects" /></a>
+    <a href="https://www.linkedin.com/in/raghvendra-singh4444"><img src="https://img.shields.io/badge/LINKEDIN-39FF14?style=for-the-badge&labelColor=020805&logo=linkedin&logoColor=39FF14" alt="LinkedIn" /></a>
+    <a href="mailto:raghavsingh99199@gmail.com"><img src="https://img.shields.io/badge/CONTACT-39FF14?style=for-the-badge&labelColor=020805&logo=gmail&logoColor=39FF14" alt="Email" /></a>
   </p>
 
 </div>
@@ -122,20 +82,15 @@ I'm continuously improving my problem-solving skills while building projects tha
 </table>
 
 <p align="center">
-  <a href="https://github.com/raghav4444?tab=repositories">
-    <img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-34D399?style=for-the-badge&labelColor=020805&logo=github&logoColor=34D399" alt="View all repositories" />
-  </a>
+  <a href="https://github.com/raghav4444?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-39FF14?style=for-the-badge&labelColor=020805&logo=github&logoColor=39FF14" alt="View all repositories" /></a>
 </p>
 
 03 // TECH STACK
 <div align="center">
-
-  <h3>Languages · Frameworks · Tools</h3>
   <img
     src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,react,nextjs,nodejs,express,mongodb,mysql,supabase,aws,docker,git,github,vscode,postman&theme=dark"
-    alt="Technologies used across programming, frontend, backend, databases, cloud, and development tools."
+    alt="Programming languages, frameworks, databases, cloud, and developer tools"
   />
-
 </div>
 
 Area	Tools and concepts
@@ -148,47 +103,30 @@ Tools & Cloud	Git, GitHub, Docker, AWS, Postman, VS Code
 CS Fundamentals	Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks
 
 
-04 // GITHUB TELEMETRY
+04 // GITHUB STATS
 <div align="center">
   <a href="https://github.com/raghav4444">
-    <img
-      height="175"
-      src="https://github-readme-stats.vercel.app/api?username=raghav4444&show_icons=true&hide_border=true&bg_color=020805&title_color=34D399&text_color=C5D8CE&icon_color=34D399&rank_icon=github"
-      alt="GitHub profile statistics"
-    />
+    <img height="175" src="https://github-readme-stats.vercel.app/api?username=raghav4444&show_icons=true&hide_border=true&bg_color=020805&title_color=39FF14&text_color=C5D8CE&icon_color=39FF14&rank_icon=github" alt="GitHub profile statistics" />
   </a>
   <a href="https://github.com/raghav4444?tab=repositories">
-    <img
-      height="175"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav4444&layout=compact&hide_border=true&bg_color=020805&title_color=34D399&text_color=C5D8CE"
-      alt="Most-used languages on GitHub"
-    />
+    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav4444&layout=compact&hide_border=true&bg_color=020805&title_color=39FF14&text_color=C5D8CE" alt="Most-used languages on GitHub" />
   </a>
 </div>
 
+05 // CONTRIBUTION GRID — NEON PREDATOR
 <p align="center">
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=raghav4444&bg_color=020805&color=C5D8CE&line=34D399&point=4ADE80&area=true&hide_border=true"
-    alt="GitHub contribution activity graph"
-  />
-</p>
-
-05 // NEON PREDATOR
-<p align="center">
-  <img
-    width="100%"
-    src="https://raw.githubusercontent.com/raghav4444/raghav4444/output/neon-snake.gif"
-    alt="Neon Predator — custom animated snake generated from GitHub contribution activity."
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raghav4444/raghav4444/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raghav4444/raghav4444/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/raghav4444/raghav4444/output/github-contribution-grid-snake.svg" width="100%" alt="Animated neon snake moving across my GitHub contribution grid" />
+  </picture>
 </p>
 
 <p align="center">
-  <sub>Custom animation generated by <code>scripts/generate_neon_snake.py</code> and published by the Neon Snake GitHub Actions workflow.</sub>
+  <sub>Contribution activity, reimagined in neon green. Generated automatically by GitHub Actions.</sub>
 </p>
 
-
-07 // CURRENT MINDSET
+06 // CURRENT MINDSET
 <div align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=19&duration=3000&pause=2500&color=D4AF37&center=true&vCenter=true&width=850&height=100&lines=BUILD+WITH+PURPOSE.;LEARN+WITHOUT+LIMITS.;PROGRESS+OVER+PERFECTION.;SOLVE+THE+PROBLEM.+THEN+WRITE+THE+CODE."
@@ -223,7 +161,7 @@ CS Fundamentals	Data Structures & Algorithms, OOP, DBMS, Operating Systems, Comp
   <sub>Designed around curiosity, built with code, and improved one iteration at a time.</sub>
 </p>
 
-08 // LET'S CONNECT
+07 // LET'S CONNECT
 <div align="center">
   <a href="https://github.com/raghav4444">
     <img src="https://img.shields.io/badge/GitHub-020805?style=for-the-badge&logo=github&logoColor=34D399" alt="GitHub profile" />
