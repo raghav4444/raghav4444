@@ -12,8 +12,6 @@
 </p>
 
 <div align="center">
-
-  <h2>RAGHVENDRA SINGH</h2>
   <h3>Full Stack Developer · AI Integrations · Problem Solver</h3>
 
   <img
